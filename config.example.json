@@ -1,0 +1,6 @@
+{
+  "gmail_address": "你的Gmail地址@gmail.com",
+  "gmail_app_password": "在这里填16位应用专用密码",
+  "deepseek_api_key": "在这里填DeepSeek的APIKey(sk开头)",
+  "receiver": "接收摘要的邮箱(一般填你的Gmail地址)"
+}
